@@ -51,3 +51,4 @@ public class OrderPlaced {
         this.productName = productName;
     }
 }
+
